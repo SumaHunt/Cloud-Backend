@@ -1,0 +1,81 @@
+C:\Users\Chay\Documents\api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Chay\Documents\api\bin\Debug\net6.0\appsettings.json
+C:\Users\Chay\Documents\api\bin\Debug\net6.0\api.exe
+C:\Users\Chay\Documents\api\bin\Debug\net6.0\api.deps.json
+C:\Users\Chay\Documents\api\bin\Debug\net6.0\api.runtimeconfig.json
+C:\Users\Chay\Documents\api\bin\Debug\net6.0\api.dll
+C:\Users\Chay\Documents\api\bin\Debug\net6.0\api.pdb
+C:\Users\Chay\Documents\api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Chay\Documents\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Chay\Documents\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Chay\Documents\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Chay\Documents\api\obj\Debug\net6.0\api.csproj.AssemblyReference.cache
+C:\Users\Chay\Documents\api\obj\Debug\net6.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chay\Documents\api\obj\Debug\net6.0\api.AssemblyInfoInputs.cache
+C:\Users\Chay\Documents\api\obj\Debug\net6.0\api.AssemblyInfo.cs
+C:\Users\Chay\Documents\api\obj\Debug\net6.0\api.csproj.CoreCompileInputs.cache
+C:\Users\Chay\Documents\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Chay\Documents\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chay\Documents\api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Chay\Documents\api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Chay\Documents\api\obj\Debug\net6.0\scopedcss\bundle\api.styles.css
+C:\Users\Chay\Documents\api\obj\Debug\net6.0\api.csproj.CopyComplete
+C:\Users\Chay\Documents\api\obj\Debug\net6.0\api.dll
+C:\Users\Chay\Documents\api\obj\Debug\net6.0\refint\api.dll
+C:\Users\Chay\Documents\api\obj\Debug\net6.0\api.pdb
+C:\Users\Chay\Documents\api\obj\Debug\net6.0\api.genruntimeconfig.cache
+C:\Users\Chay\Documents\api\obj\Debug\net6.0\ref\api.dll
+C:\Users\Chay\Documents\api - Samatha\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Chay\Documents\api - Samatha\bin\Debug\net6.0\appsettings.json
+C:\Users\Chay\Documents\api - Samatha\bin\Debug\net6.0\api.exe
+C:\Users\Chay\Documents\api - Samatha\bin\Debug\net6.0\api.deps.json
+C:\Users\Chay\Documents\api - Samatha\bin\Debug\net6.0\api.runtimeconfig.json
+C:\Users\Chay\Documents\api - Samatha\bin\Debug\net6.0\api.dll
+C:\Users\Chay\Documents\api - Samatha\bin\Debug\net6.0\api.pdb
+C:\Users\Chay\Documents\api - Samatha\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Chay\Documents\api - Samatha\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Chay\Documents\api - Samatha\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Chay\Documents\api - Samatha\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Chay\Documents\api - Samatha\obj\Debug\net6.0\api.csproj.AssemblyReference.cache
+C:\Users\Chay\Documents\api - Samatha\obj\Debug\net6.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chay\Documents\api - Samatha\obj\Debug\net6.0\api.AssemblyInfoInputs.cache
+C:\Users\Chay\Documents\api - Samatha\obj\Debug\net6.0\api.AssemblyInfo.cs
+C:\Users\Chay\Documents\api - Samatha\obj\Debug\net6.0\api.csproj.CoreCompileInputs.cache
+C:\Users\Chay\Documents\api - Samatha\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Chay\Documents\api - Samatha\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chay\Documents\api - Samatha\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Chay\Documents\api - Samatha\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Chay\Documents\api - Samatha\obj\Debug\net6.0\scopedcss\bundle\api.styles.css
+C:\Users\Chay\Documents\api - Samatha\obj\Debug\net6.0\api.csproj.CopyComplete
+C:\Users\Chay\Documents\api - Samatha\obj\Debug\net6.0\api.dll
+C:\Users\Chay\Documents\api - Samatha\obj\Debug\net6.0\refint\api.dll
+C:\Users\Chay\Documents\api - Samatha\obj\Debug\net6.0\api.pdb
+C:\Users\Chay\Documents\api - Samatha\obj\Debug\net6.0\api.genruntimeconfig.cache
+C:\Users\Chay\Documents\api - Samatha\obj\Debug\net6.0\ref\api.dll
+C:\Users\Chay\Documents\cloud-backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Chay\Documents\cloud-backend\bin\Debug\net6.0\appsettings.json
+C:\Users\Chay\Documents\cloud-backend\bin\Debug\net6.0\api.exe
+C:\Users\Chay\Documents\cloud-backend\bin\Debug\net6.0\api.deps.json
+C:\Users\Chay\Documents\cloud-backend\bin\Debug\net6.0\api.runtimeconfig.json
+C:\Users\Chay\Documents\cloud-backend\bin\Debug\net6.0\api.dll
+C:\Users\Chay\Documents\cloud-backend\bin\Debug\net6.0\api.pdb
+C:\Users\Chay\Documents\cloud-backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Chay\Documents\cloud-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Chay\Documents\cloud-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Chay\Documents\cloud-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Chay\Documents\cloud-backend\obj\Debug\net6.0\api.csproj.AssemblyReference.cache
+C:\Users\Chay\Documents\cloud-backend\obj\Debug\net6.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chay\Documents\cloud-backend\obj\Debug\net6.0\api.AssemblyInfoInputs.cache
+C:\Users\Chay\Documents\cloud-backend\obj\Debug\net6.0\api.AssemblyInfo.cs
+C:\Users\Chay\Documents\cloud-backend\obj\Debug\net6.0\api.csproj.CoreCompileInputs.cache
+C:\Users\Chay\Documents\cloud-backend\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Chay\Documents\cloud-backend\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chay\Documents\cloud-backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Chay\Documents\cloud-backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Chay\Documents\cloud-backend\obj\Debug\net6.0\scopedcss\bundle\api.styles.css
+C:\Users\Chay\Documents\cloud-backend\obj\Debug\net6.0\api.csproj.CopyComplete
+C:\Users\Chay\Documents\cloud-backend\obj\Debug\net6.0\api.dll
+C:\Users\Chay\Documents\cloud-backend\obj\Debug\net6.0\refint\api.dll
+C:\Users\Chay\Documents\cloud-backend\obj\Debug\net6.0\api.pdb
+C:\Users\Chay\Documents\cloud-backend\obj\Debug\net6.0\api.genruntimeconfig.cache
+C:\Users\Chay\Documents\cloud-backend\obj\Debug\net6.0\ref\api.dll
